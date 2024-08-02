@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **naveenellare757@gmail.com**
 
+- <a href="https://app.daily.dev/naveen007"><img src="https://api.daily.dev/devcards/v2/4f5NpZTYqDwXvUGKdsrYm.png?type=default&r=iib" width="356" alt="NAVEEN's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-naik-a17a78241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-naik-a17a78241/" height="30" width="40" /></a>
